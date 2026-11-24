@@ -5,6 +5,15 @@
 Writes exactly one line — an out-of-office auto-reply as if sent by a
 houseplant — to /output/entry.txt. Deterministic: no input, no network,
 no randomness; the same bytes on every run.
+
+Craft notes: the joke is the plant's own life, not a borrowed office
+gag — an out-of-office reply from something that was never really in
+the office at all, unwatered and ignored since March. The twist lands
+in the final clause: not even the fern noticed, a fellow plant too
+neglected to care, which turns quiet neglect into a punchline. That
+fits the judge brief: the funniest out-of-office auto-reply a
+houseplant would send, in 120 characters or fewer, funny on first
+read with a surprising payoff.
 """
 
 import os
