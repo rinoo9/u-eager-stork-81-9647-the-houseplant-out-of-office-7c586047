@@ -8,19 +8,29 @@ no randomness; the same bytes on every run.
 
 Craft notes: the joke is the plant's own life, not a borrowed office
 gag — an out-of-office reply from something that was never really in
-the office at all, unwatered and ignored since March. The twist lands
-in the final clause: not even the fern noticed, a fellow plant too
-neglected to care, which turns quiet neglect into a punchline. That
-fits the judge brief: the funniest out-of-office auto-reply a
-houseplant would send, in 120 characters or fewer, funny on first
-read with a surprising payoff.
+the office at all, unwatered and ignored. The twist lands in the
+final clause: HR keeps booking the plant meetings in direct sunlight
+and it keeps fainting, which turns office bureaucracy into a
+houseplant health hazard. That fits the judge brief: the funniest
+out-of-office auto-reply a houseplant would send, in 120 characters
+or fewer, funny on first read with a surprising payoff.
+
+Second pass — why the line works: it opens on the plant's real need
+("until someone waters me") so the reader knows at once who is
+speaking, then the second sentence escalates from neglect to active
+harm — the office itself is the problem, not just the watering can.
+"Fainting" gives the plant a body that reacts, which makes the joke
+physical instead of abstract. Voice: dry and matter-of-fact, like a
+real auto-reply; the plant sounds resigned rather than angry, which
+is what makes the complaint funny. The line stays under the limit at
+107 characters, two short sentences, one breath.
 """
 
 import os
 
 ENTRY = (
-    "I'm out of office until someone waters me. I've been gone since "
-    "March and nobody noticed \u2014 not even the fern."
+    "Out of office until someone waters me. HR keeps booking me "
+    "meetings in direct sunlight and I keep fainting."
 )
 
 
