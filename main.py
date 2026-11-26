@@ -24,13 +24,24 @@ physical instead of abstract. Voice: dry and matter-of-fact, like a
 real auto-reply; the plant sounds resigned rather than angry, which
 is what makes the complaint funny. The line stays under the limit at
 107 characters, two short sentences, one breath.
+
+Third pass — why the new line works: the plant reframes its absence
+as official leave, and the acronym does the joke — PTO becomes
+Photosynthesis Time Off, so the plant's biology is its holiday. Then
+the punchline hands the chore to the fern, which has been covering
+shifts since March: the plant is not just neglected, it has a
+co-worker who is also neglected, and the final instruction ("water
+it, not me") flips the auto-reply's job — instead of telling humans
+when the plant returns, it tells them to water someone else. The
+line stays under the limit at 111 characters, three short beats,
+one breath.
 """
 
 import os
 
 ENTRY = (
-    "Out of office until someone waters me. HR keeps booking me "
-    "meetings in direct sunlight and I keep fainting."
+    "Out of office: on PTO (Photosynthesis Time Off). The fern has "
+    "covered my shifts since March — water it, not me."
 )
 
 
