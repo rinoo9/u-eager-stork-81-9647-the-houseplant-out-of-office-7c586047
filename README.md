@@ -4,8 +4,8 @@
 
 # The Houseplant Out-of-Office
 
-A one-line houseplant out-of-office auto-reply entry for the make.fun bounty "The Houseplant Out-of-Office". The program `main.py` writes a single auto-reply to `/output/entry.txt` — a houseplant that has been out of office since March, unwatered and unnoticed, not even by the fern next to it.
+A one-line houseplant out-of-office auto-reply entry for the make.fun bounty "The Houseplant Out-of-Office". The program `main.py` writes a single auto-reply to `/output/entry.txt` — a houseplant on PTO (Photosynthesis Time Off), whose fern co-worker has been covering its shifts since March.
 
-> I'm out of office until someone waters me. I've been gone since March and nobody noticed — not even the fern.
+> Out of office: on PTO (Photosynthesis Time Off). The fern has covered my shifts since March — water it, not me.
 
 Run it with `python3 main.py`. It asserts the entry is 1–120 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
